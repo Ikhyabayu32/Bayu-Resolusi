@@ -3,3 +3,4 @@ Resolusi Bayu
 2. Ingin menguasai bahasa PHP
 3. Ingin menguasai Framework Codegniter
 4. Ingin menjadi Web Developer
+5. Ingin Membuat Aplikasi sederhana dari Framework Codegniter
